@@ -31,11 +31,11 @@ Passionate about **wireless communications, avionics, and embedded systems**, I 
 ### 🛰️ **CanSat Greece 2020**  
 **Team Leader** | 🏆 **1st Place in Category**  
 Built a miniaturized satellite to localize Wi-Fi beacons in emergency scenarios using ESP32, telemetry systems, and custom PCBs.  
-🔗 [Project Link](https://aspire.uowm.gr/projects-2/suchive/cansa/)  
+🔗 [Project Link](https://github.com/aspire-uowm/CSiGR2020-Bahallo) 
 
 ### 🌐 **IoT Sensor Network**  
 Designed a centralized IoT interface using ESP32, LoRa, and The Things Network to collect/display sensor data via Node-RED.  
-🔗 [GitHub](https://github.com/dom/oku1997/TTGQZTTNwRMP3&B)  
+🔗 [GitHub](https://github.com/johnylouk1997/TTGO2TTNwBMP388)  
 
 ### ✈️ **UAS Challenge 2023**  
 Developed avionics and telemetry systems for a UAV, integrating MATLAB with X-Plane for autopilot simulations.  

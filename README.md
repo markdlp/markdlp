@@ -6,6 +6,10 @@ Passionate about **wireless communications, avionics, and embedded systems**, I 
 
 ---
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 ## 🔧 **Skills & Expertise**
 
 ### **🛠️ Hardware & Embedded**

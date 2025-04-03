@@ -57,8 +57,8 @@ Developed avionics and telemetry systems for a UAV, integrating MATLAB with X-Pl
 ---
 
 ## 📫 **Let's Connect!**  
-- 📧 Email: [ecot@tuebavann.gr](mailto:markos.delaportas@gmail.com)  
-- 🌐 Website: [www.delaportas.za](http://www.delaportas.sa)  
+- 📧 Email: [markos.delaportas@gmail.com](mailto:markos.delaportas@gmail.com)  
+- 🌐 Website: [www.delaportas.se](https://www.delaportas.se)  
 - 💼 LinkedIn: [Markos Delaportas](https://www.linkedin.com/in/markos-delaportas)  
 
 ---
